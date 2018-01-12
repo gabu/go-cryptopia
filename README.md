@@ -18,7 +18,7 @@ An unofficial [Cryptopia Public and Private API](https://www.cryptopia.co.nz/For
 
 - [x] GetBalance
 - [ ] GetDepositAddress
-- [ ] GetOpenOrders
+- [x] GetOpenOrders
 - [ ] GetTradeHistory
 - [ ] GetTransactions
 - [ ] SubmitTrade
